@@ -18,7 +18,7 @@ e) Training the model for 15 epochs.
 </br>
 </br>
 f) Result:
-</br> - We can see how the LSTM is repeating the words, this can mean:
-</br> - The number of books were less
-</br> - The number were epcohs were less
-</br> - On using more of both of the above, we can definitely get better results
+   - We can see how the LSTM is repeating the words, this can mean:
+   - The number of books were less
+   - The number were epcohs were less
+   - On using more of both of the above, we can definitely get better results
